@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+name: final_vivan_1200
+display_name: Final vivan 1200
+engine: lc0_23
+options:
+    nodes: 1
+    weightsPath: final_1200-40.pb.gz
+    movetime: 10
+    threads: 8
+...
